@@ -72,5 +72,8 @@ plt.show()
 <img width="721" height="146" alt="Screenshot 2026-02-25 111206" src="https://github.com/user-attachments/assets/530903a4-dd54-40e0-98ef-561f91972602" />
 <img width="837" height="542" alt="Screenshot 2026-02-25 111218" src="https://github.com/user-attachments/assets/d267cd10-81b5-475e-a512-ce4256f5628d" />
 <img width="847" height="628" alt="Screenshot 2026-02-25 111241" src="https://github.com/user-attachments/assets/b9f1850c-2c20-4367-8f7c-f63c2fae38aa" />
+
+
+
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
